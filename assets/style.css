@@ -1,0 +1,61 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.row {
+  height: 60px;
+}
+
+input {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.bar-task {
+  padding: 0;
+}
+
+.main-row {
+  background-color: #7d7d93;
+  color: white;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  text-align: center;
+}
+.c-time{
+  border-right: 1px solid whitesmoke;
+}
+.c-task{
+    border-right: 1px solid whitesmoke;
+
+}
+
+.past {
+  background-color: #c7c6c6;
+  color: black;
+}
+
+.present {
+  background-color: #e0c4c4;
+  color: black;
+}
+
+.future {
+  background-color: #e8f8e8;
+  color: black;
+}
+
+.saveBtn {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color:#9f9fb6;
+  color: white;
+  cursor: pointer;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
