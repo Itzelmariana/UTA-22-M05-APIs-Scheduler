@@ -24,12 +24,11 @@ input {
   border-top-left-radius: 15px;
   text-align: center;
 }
-.c-time{
+.c-time {
   border-right: 1px solid whitesmoke;
 }
-.c-task{
-    border-right: 1px solid whitesmoke;
-
+.c-task {
+  border-right: 1px solid whitesmoke;
 }
 
 .past {
@@ -50,7 +49,7 @@ input {
 .saveBtn {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color:#9f9fb6;
+  background-color: #9f9fb6;
   color: white;
   cursor: pointer;
 }
